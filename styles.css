@@ -1,0 +1,20 @@
+:root {
+    --branco: #FFFFFF;
+    --cor-fonte-vermelho: #8E2424;
+    --cor-titulo: #101828;
+    --cor-ancoras: #667085;
+    --fonte-principal: 'Inter', sans-serif;
+    --cor-footer: #F9FAFB;
+    --cor-titulo: #3A404E;
+    --cor-fundo: #8E24240D;
+    --cor-fundo-depoimentos: #C3191908;
+
+}
+
+body {
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+    background-color: var(--branco);
+
+}
